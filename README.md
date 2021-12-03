@@ -19,3 +19,18 @@ python checker.py
 ``` 
 
 After execution you will get a text file named: result.txt
+
+
+
+### Running Cypress
+
+cd into cypress-check and install cypress:
+
+```
+npm i cypress
+```
+
+open cypress with:
+```
+npx cypress open
+```
